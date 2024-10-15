@@ -1,4 +1,5 @@
-# ✨ Hello, I'm **Sonat Joseph** ✨
+# ✨ Hello you, 
+I'm **Sonat Joseph** 
 
 👨‍💻 **2nd Year Integrated MCA Student | Tech Enthusiast | Future Full Stack Developer**  
 
